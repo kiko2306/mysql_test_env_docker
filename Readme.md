@@ -6,5 +6,5 @@ This is a test environment for MySQL and PHPMyAdmin. It is based on the official
 ## Usage
 1. Clone the repository
 2. Copy the `.env.example` file to `.env` and adjust the values
-3. Run `docker-compose up -d`
+3. Run `docker compose up -d`
 4. Open `http://localhost:PORT` in your browser
