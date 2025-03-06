@@ -1,4 +1,4 @@
-name: MYSQL_DATABASE_TEST_ENV
+name: MYSQL_TEST_ENV
 
 services:
 
